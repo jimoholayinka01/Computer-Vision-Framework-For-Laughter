@@ -20,16 +20,20 @@ This work contributes to the field of **Affective Computing** and **Digital Ment
 
 ## 🧩 Repository Structure
 
-Vision-Laughter/
+VisionLaughter-AffectiveComputing/
 │
-├── 1_DeepFace_ValenceArousal.ipynb # Python notebook for DeepFace-based valence–arousal estimation
-├── 2_Statistical_Analysis_and_Clustering.R # R script for statistical tests and k-means clustering
-├── 3_Plots/ # Folder containing generated images and plots
-│ ├── AU_Trajectories.png
-│ ├── Correlation_Heatmap.png
-│ └── Cluster_Profiles.png
-├── 4_Sample_OpenFace_Data.csv # Example AU data extracted from OpenFace
-└── README.md # Project documentation (this file)
+├── 1_DeepFace_ValenceArousal.ipynb         # Python notebook for DeepFace-based valence–arousal estimation
+├── 2_Statistical_Analysis_and_Clustering.R # R script for statistical analysis and k-means clustering
+│
+├── 3_Plots/                                # Folder containing generated images and plots
+│   ├── AU_Trajectories.png
+│   ├── Correlation_Heatmap.png
+│   └── Cluster_Profiles.png
+│
+├── 4_Sample_OpenFace_Data.csv              # Example AU data extracted from OpenFace
+│
+└── README.md                               # Project documentation (this file)
+
 
 ---
 
